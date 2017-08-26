@@ -1,0 +1,25 @@
+1.	Write a program in ARM assembly language to load any register with 32-bit data and perform the following:
+  A)	Shift left by 2 bits
+  B)	Shift right by the number of bits stored in register R2
+  C)	Shift left 5 bits conditionally when zero flag is set
+  D)	Arithmetic shift right by the value contained in register R2
+2.	Write a program in ARM assembly language to add two 32 bit numbers using:
+  A)	Direct addressing mode
+  B)	Indirect addressing mode (2 consecutive values)
+  C)	Offset Addressing Mode, Immediate Addressing Mode, Barrel Shift.
+3.	Write a program in ARM assembly language to copy & consecutive words from source to destination in memory using:
+  a)	Multiple register transfer instructions
+  b)	Load and store instructions in a loop
+4.	Write a program to verify how many bytes are present in a given set which resemble 0xAC.
+5.	Write a program to count the number of 1’s and 0’s in a given bytes and verify the result.
+6.	Write a program in ARM assembly language to perform multiplication using repeated addition.
+7.	Write a program in ARM assembly language to perform division using repeated subtraction. 
+8.	Write a program in ARM assembly language to find the factorial of a number using lookup table.
+9.	Write a program in ARM assembly language to find the Fibonacci of a number using lookup table.
+10.	Write a program in ARM assembly language to find the number of occurrences of a letter in a given string.
+11.	Write a program in ARM assembly language to implement the equation:
+  A)	ax2 +by2 
+  B)	6(x+y) + 2z+4
+12.	Write a program in ARM assembly language to find the length of a given string.
+13.	Write a program in ARM assembly language to construct STACK.
+14.	Write a program in ARM assembly language to add two 64 bit registers.
